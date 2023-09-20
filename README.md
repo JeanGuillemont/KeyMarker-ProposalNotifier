@@ -10,7 +10,7 @@ The proposal notifier is a tool allowing telegram channel notification when prop
 - boardroom.io API
 - n8n worklfow
 - telegram bot API
-- airops.com for summary
+- aifye for summary
 
 # How to deploy
 
